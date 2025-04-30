@@ -70,6 +70,3 @@ The project requires the following libraries:
 4. After the screenshot is captured, the tool will extract the text from the image and translate it.
 5. The translated text will be displayed in a GUI window, with an option to copy the original or translated text to the clipboard.
 
-## License
-
-This project is open-source and available under the MIT License.
